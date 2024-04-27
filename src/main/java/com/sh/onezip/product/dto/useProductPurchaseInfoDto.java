@@ -13,5 +13,4 @@ public class UseProductPurchaseInfoDto {
     int productQuantity;
     @NotBlank
     String selectOption;
-
 }
